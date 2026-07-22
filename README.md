@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Gabriela Bassegio!
 
-**Robotics Engineering Student @ FEI University Center | Team Leader @ RoboFEI atHome**
+**Robotics Engineering Student @ FEI University Center | Projects Intern @ Robotec Solutions**
 
 I am passionate about robotics and currently lead the award-winning RoboFEI team, focusing on Domestic Service Robots.
 <br>
